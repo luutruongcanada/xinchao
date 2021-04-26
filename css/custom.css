@@ -1,0 +1,18 @@
+/*
+* Custom css
+*/
+
+
+.redBox{
+	background-color: red;
+	color: white;
+}
+
+body{
+	font-family: 'Mulish', sans-serif;
+}
+
+.button-primary{
+	background-color: white;
+	color: red;
+}
